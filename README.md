@@ -8,7 +8,7 @@ Data provided by Motivate International Inc. under this license. with a total of
 
 Tools : Google sheet or Microsoft Excel and SQL will be used for the data cleaning processing and only data from Jan 2022 to Feb 2022 will be selected for the data wrangling as it can give us the latest insight into user behavior trends.
 
-Table's name: tripdata_full
+Table's name: tripdata_full (combine of 2 files)
 
 Column:
 1. ride_id, 
