@@ -26,3 +26,5 @@ Column:
 13. end_lat, 
 14. end_lng, 
 15. member_casual
+
+I display the results with the Dashboard created on tableu: https://public.tableau.com/views/bike-shareanalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
