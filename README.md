@@ -27,4 +27,6 @@ Column:
 14. end_lng, 
 15. member_casual
 
-I display the results with the Dashboard created on tableu: https://public.tableau.com/views/bike-shareanalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+I create a data visualization of the results of the analysis I did, with a Dashboard created on tableu: 
+
+https://public.tableau.com/views/bike-shareanalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
