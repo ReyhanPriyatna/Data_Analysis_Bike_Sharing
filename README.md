@@ -8,6 +8,10 @@ Data provided by Motivate International Inc. under this license. with a total of
 
 Tools : Google sheet or Microsoft Excel and SQL will be used for the data cleaning processing and only data from Jan 2022 to Feb 2022 will be selected for the data wrangling as it can give us the latest insight into user behavior trends.
 
+I create a data visualization of the results of the analysis I did, with a Dashboard created on tableu: 
+
+https://public.tableau.com/views/bike-shareanalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 Table's name: tripdata_full (combine of 2 files)
 
 Column:
@@ -26,7 +30,3 @@ Column:
 13. end_lat, 
 14. end_lng, 
 15. member_casual
-
-I create a data visualization of the results of the analysis I did, with a Dashboard created on tableu: 
-
-https://public.tableau.com/views/bike-shareanalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
